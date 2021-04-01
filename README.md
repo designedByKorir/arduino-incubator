@@ -7,7 +7,8 @@ six parameters are set through the matrix keypad:
       "Humidity","%",
       "Frequency","hrs",
       "turn stop","day".
-  
+ 
+  A tone buzzer is included to sound an alarm should there be a deviation from the set parameters.
 
 the following libraries were used in development.
 	paulstoffregen/OneWire@^2.3.5
