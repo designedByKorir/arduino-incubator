@@ -1,3 +1,4 @@
+![INCUBATOR](https://user-images.githubusercontent.com/81776578/113349963-7af58480-9341-11eb-91d2-7131291e2002.png)
 # arduino-incubator
 simple design for an icubator using common breakout boards
 six parameters are set through the matrix keypad:
